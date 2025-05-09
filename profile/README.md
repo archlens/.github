@@ -1,7 +1,5 @@
 ## Welcome to Archlens
 
-<img width="896" alt="image" src="https://github.com/user-attachments/assets/52a0cd2e-5ba7-44dc-8df5-466ce8b279de" />
-
 ArchLens ([GitHub](https://github.com/archlens)) is a project that aims to help developers **keep track of the evolution of the structure of their systems** by allowing them to quickly define module views and then visualizing their evolution. 
 
 It consists of three components:
